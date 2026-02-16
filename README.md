@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shexty](https://github.com/shexty)
+- 👨‍💻 All of my projects are available at [https://github.com/shexty](https://github.com/jackcoates1)
 
 - 📫 How to reach me **Coatesjack06@gmail.com**
 
