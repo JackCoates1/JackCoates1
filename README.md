@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jack</h1>
-<h3 align="center">A cybersecurity enthusiast building automation and security tools</h3>
+<h1 align="center">Jack Coates</h1>
+<p align="center">Developer · Entrepreneur · Homelab Enthusiast</p>
 
-- 🔭 I’m currently working on [Insecurity Mutli Tool](https://github.com/shexty/Insecurity-multi-tool)
+---
 
-- 🌱 I’m currently learning **Java**
+### What I build
 
-- 👨‍💻 All of my projects are available at [https://github.com/shexty](https://github.com/jackcoates1)
+- 🛍️ **[Max's Reviews](https://maxsreviews.co.uk)** — merch brand and content creator platform (Node.js, Express, Stripe, Brevo)
+- 💆 **[Radiant Aesthetics](https://theaestheticsclinic.shop)** — aesthetics clinic booking & management system (React, Node.js, Stripe)
+- 🏠 **Homelab** — Proxmox cluster, k3s + ArgoCD, self-hosted services, automated monitoring across Pi + VPS
 
-- 📫 How to reach me **Coatesjack06@gmail.com**
+### Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jack-coates-a8a430310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jack coates" height="30" width="40" /></a>
-</p>
+**Languages:** Python · JavaScript / Node.js · Bash  
+**Infrastructure:** Proxmox · Docker · k3s · Cloudflare · Nginx · Linux  
+**Tools:** PM2 · ArgoCD · Tailscale · Git
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Currently working on
 
+- Automation pipelines and self-healing infrastructure
+- Full-stack web apps for small businesses
+
+📫 coatesjack06@gmail.com · [LinkedIn](https://linkedin.com/in/jack-coates-a8a430310)
