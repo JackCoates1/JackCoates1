@@ -14,9 +14,6 @@
 - 🚨 **[DDOS-Notifications](https://github.com/JackCoates1/DDOS-Notifications)** — lightweight real-time DDoS detection with Discord alerts
 - 🔥 **[AI-DDOS-Firewall](https://github.com/JackCoates1/AI-DDOS-Firewall)** — ML-based DDoS detection and automated firewall response for Linux servers
 
-**Personal Projects**
-- 📺 **[daddylive-m3u](https://github.com/JackCoates1/daddylive-m3u)** — Python scraper that generates an M3U playlist from DaddyLive streams
-
 **Infrastructure**
 - 🏠 **Homelab** — Proxmox cluster, k3s + ArgoCD, Pi-hole, Cloudflare tunnels, automated monitoring across Pi + VPS
 
