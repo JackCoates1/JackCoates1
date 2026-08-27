@@ -7,10 +7,10 @@
 
 **Businesses**
 - 🛍️ **[Max's Reviews](https://maxsreviews.co.uk)** — merch brand and content creator platform (Node.js, Express, Stripe, Brevo)
-- 💆 **[Radiant Aesthetics](https://theaestheticsclinic.shop)** — aesthetics clinic with online booking and payments (React, Node.js, Stripe)
+- 💆 **[Olive Aesthetics](https://oliveaestheticsclinic.com)** — aesthetics clinic with online booking and payments (React, Node.js, Stripe)
 
 **Security & Tools**
-- 🛡️ **[Insecurity Multi Tool](https://github.com/JackCoates1/Insecurity-multi-tool)** — modular Python toolkit for reseller automation and account management
+- 🛡️ **[Insecurity Multi Tool](https://github.com/JackCoates1/Insecurity-multi-tool)** — modular Python toolkit for automation and account management (authorized use only)
 - 🚨 **[DDOS-Notifications](https://github.com/JackCoates1/DDOS-Notifications)** — lightweight real-time DDoS detection with Discord alerts
 - 🔥 **[AI-DDOS-Firewall](https://github.com/JackCoates1/AI-DDOS-Firewall)** — ML-based DDoS detection and automated firewall response for Linux servers
 
