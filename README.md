@@ -30,4 +30,4 @@
 
 ---
 
-coatesjack06@gmail.com &middot; [LinkedIn](https://linkedin.com/in/jack-coates-a8a430310)
+coatesjack06@gmail.com &middot; [LinkedIn](https://www.linkedin.com/in/jackcoates)
